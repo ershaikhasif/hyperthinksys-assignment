@@ -1,0 +1,40 @@
+.header-class {
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 0 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-searchbox {
+    width: 300px;
+}
+
+.sider-collapse {
+    background: #fff;
+    padding: 20px;
+}
+
+.sider-collapse-btn {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+
+.collapse-center {
+    justify-content: center;
+}
+
+.collapse-end {
+    justify-content: flex-end;
+}
+.padding10 {
+    padding: 10px;
+}
+.padding3 {
+    padding: 3px;
+}
