@@ -38,3 +38,7 @@
 .padding3 {
     padding: 3px;
 }
+.read-more {
+        cursor:pointer;
+        color: #33F;
+}
